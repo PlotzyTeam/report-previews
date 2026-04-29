@@ -1,0 +1,7 @@
+# Global owner — DeveloperTeam reviews everything
+*                            @PlotzyTeam/developerteam
+
+# Security-sensitive paths (explicit for clarity)
+/.github/                    @PlotzyTeam/developerteam
+/.github/workflows/          @PlotzyTeam/developerteam
+/SECURITY.md                 @PlotzyTeam/developerteam
